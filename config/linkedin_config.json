@@ -1,0 +1,6 @@
+{
+  "job_titles": ["Software Engineer", "Engineering Manager", "Product Manager"],
+  "locations": ["United States", "India", "United Kingdom"],
+  "keywords": ["Python", "Selenium", "Automation", "OpenAI"],
+  "experience_levels": ["Entry level", "Associate", "Mid-Senior level"]
+}

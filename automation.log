@@ -1,0 +1,29 @@
+2025-12-26 15:37:56,789 - ERROR - linkedin_automation - message_generator - OpenAI failure: OPENAI_API_KEY not set; falling back to template
+2025-12-26 15:37:56,900 - ERROR - linkedin_automation - helpers - Attempt 1 failed: fail; retrying in 0.01s
+2025-12-26 15:37:56,913 - ERROR - linkedin_automation - helpers - Attempt 2 failed: fail; retrying in 0.02s
+2025-12-26 15:37:56,935 - INFO - linkedin_automation - helpers - Sleeping for 0.02s
+2025-12-26 15:43:53,036 - ERROR - linkedin_automation - login - Login timeout: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6abf588e5
+	0x7ff6abf58940
+	0x7ff6abd3165d
+	0x7ff6abd89a33
+	0x7ff6abd89d3c
+	0x7ff6abdddf67
+	0x7ff6abddac97
+	0x7ff6abd7ac29
+	0x7ff6abd7ba93
+	0x7ff6ac270640
+	0x7ff6ac26af80
+	0x7ff6ac2896e6
+	0x7ff6abf75de4
+	0x7ff6abf7ed8c
+	0x7ff6abf62004
+	0x7ff6abf621b5
+	0x7ff6abf47ee2
+	0x7ffef7b6e8d7
+	0x7ffef8e2c53c
+
+2025-12-26 15:43:53,042 - ERROR - linkedin_automation - automation_flow - Login failed, aborting flow
+2025-12-26 15:43:55,466 - INFO - linkedin_automation - automation_flow - Flow completed
